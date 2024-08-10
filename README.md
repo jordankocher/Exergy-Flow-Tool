@@ -1,0 +1,1 @@
+This MATLAB based GUI is a tool for visualizing the flow of exergetic and non-exergetic energy through a general thermodynamic system. The tool also provides the option to visualize the driving forces and resistances for the different contributions to the flow of energy through the system. To use the tool, download the three MATLAB files into the same directory, and run "GUI.m" 
